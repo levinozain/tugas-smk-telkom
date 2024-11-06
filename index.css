@@ -1,0 +1,23 @@
+body {
+    display: inline-block;
+    width: 100%;
+    height: auto;
+    background-color: rgb(0, 214, 64);   
+}
+
+.container {
+    
+}
+
+.list-name {
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.tugas {
+    font-size: 35px;
+}
+
+.nama-kelompok {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
